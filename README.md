@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Reagan Jake Ongaya, Full-Stack Software Engineer" width="100%" />
+  <img src="./assets/banner-animated.svg" alt="Reagan Jake Ongaya, Full-Stack Software Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@ I'm a Full-Stack Software Engineer passionate about building clean, responsive, 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D90E07,100:000000&height=90&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D90E07,100:000000&height=90&section=footer&animation=twinkling" alt="" width="100%" />
 </p>
 
 
