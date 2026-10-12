@@ -15,9 +15,7 @@
   <a href="mailto:reaganjakeongaya@gmail.com"><img src="https://img.shields.io/badge/Email-D90E07?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
 </p>
 
----
-
-### About
+<img src="./assets/section-about.svg" alt="About" width="100%" />
 
 I'm a Full-Stack Software Engineer passionate about building clean, responsive, and practical software. I work across modern frontend interfaces, backend APIs, databases, and integrations, while exploring AI and automation to solve real-world problems. I enjoy learning by building, sharing knowledge, and turning ideas into useful digital products.
 
@@ -48,9 +46,7 @@ I'm a Full-Stack Software Engineer passionate about building clean, responsive, 
 **Pronouns:** He/Him<br/>
 **Fun fact:** I enjoy turning ideas into working software, and finding out what breaks along the way.
 
----
-
-### Tech Stack
+<img src="./assets/section-stack.svg" alt="Tech Stack" width="100%" />
 
 **Languages**<br/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=D90E07" alt="JavaScript" />
@@ -127,16 +123,14 @@ I'm a Full-Stack Software Engineer passionate about building clean, responsive, 
 <img src="https://img.shields.io/badge/Webpack-000000?style=flat-square&logo=webpack&logoColor=D90E07" alt="Webpack" />
 <br/><br/>
 
----
-
-### GitHub Stats
+<img src="./assets/section-stats.svg" alt="GitHub Stats" width="100%" />
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ReaganJakeOngaya&show_icons=true&hide_border=true&bg_color=00000000&title_color=D90E07&icon_color=D90E07&text_color=8b949e&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ReaganJakeOngaya&layout=compact&hide_border=true&bg_color=00000000&title_color=D90E07&text_color=8b949e&langs_count=8" alt="Top languages" />
 </p>
 
-### Contribution Graph
+<img src="./assets/section-graph.svg" alt="Contribution Graph" width="100%" />
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ReaganJakeOngaya&bg_color=00000000&color=D90E07&line=D90E07&point=8b949e&area=true&area_color=D90E07&hide_border=true" alt="Contribution graph" />
@@ -145,6 +139,3 @@ I'm a Full-Stack Software Engineer passionate about building clean, responsive, 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D90E07,100:000000&height=90&section=footer&animation=twinkling" alt="" width="100%" />
 </p>
-
-
-
